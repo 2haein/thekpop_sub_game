@@ -1,2 +1,3 @@
-# theofto_blog
-create_blog of theofto
+# thekpop_sub
+
+create_sub of thekpop
